@@ -1,0 +1,8 @@
+git init 
+git config --global user.name "username" 
+git config --global user.email "useremail" 
+git remote add origin https://github.com/greensavadi/java.git 
+git status 
+git add. 
+git commit -m "commit message" 
+git push -u origin master
